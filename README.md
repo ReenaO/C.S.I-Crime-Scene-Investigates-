@@ -1,10 +1,22 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+C.S.I (Crime Scene Investigates)
 
-Welcome USER_NAME,
+Welcome C.S.I Fans,
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+Description:
+This webpage is about C.S.I tv series. It gives you Facts, Cast and Character insight, table of episodes and brief description, brief look at csi effects and feedback form and pictures of cast and theme logo.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
+                  picture
+                  
+              data box          cast and character table with  pictures        episodes tbl
+              
+              csi effects    feedback form
+
+Thanks to the following contributers:
+![image](https://user-images.githubusercontent.com/92821344/141093984-08a9f24b-2958-4b73-822a-e7027b6dd009.png)
+
+
+
+
 
 ## Gitpod Reminders
 
